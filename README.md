@@ -13,7 +13,6 @@
 
 - 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1VvcL0FXlp68xf09gBRpsvv4ea6YeNtgc](https://drive.google.com/uc?export=download&id=1VvcL0FXlp68xf09gBRpsvv4ea6YeNtgc)
 
-- **🖥️Learning Everyday, Uplevelling Everyday⚡.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
