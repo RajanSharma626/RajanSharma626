@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Rajan Sharma</h1>
 <h3 align="center">A passionate Web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDI1ZjFjZTIwOTllZmFjZmQ1NTc1OWMxZjc0ZjQ3ZTY2M2NhMDYzOSZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 <p align="left"> <a href="https://twitter.com/sharma_626" target="blank"><img src="https://img.shields.io/twitter/follow/sharma_626?logo=twitter&style=for-the-badge" alt="sharma_626" /></a> </p>
