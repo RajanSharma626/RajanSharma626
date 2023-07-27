@@ -11,7 +11,6 @@
 
 - 📫 How to reach me **rajankumarsharma681@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/uc?export=download&id=1VvcL0FXlp68xf09gBRpsvv4ea6YeNtgc](https://drive.google.com/uc?export=download&id=1VvcL0FXlp68xf09gBRpsvv4ea6YeNtgc)
 
 
 <h3 align="left">Connect with me:</h3>
