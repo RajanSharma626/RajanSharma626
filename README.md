@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://rajansharma-portfolio.netlify.app/](https://rajansharma-portfolio.netlify.app/)
 
-- 📫 How to reach me **rajanshrma.webdeveloper@gmail.com**
+- 📫 How to reach me **rajansharma.webdeveloper@gmail.com**
 
 
 
