@@ -22,7 +22,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">   <a href="https://skillicons.dev" align="center">
-    <img align="center" src="https://skillicons.dev/icons?i=js,php,mysql,vscode,html,css,bootstrap,wordpress,tailwind,jquery,laravel,vuejs" />
+    <img align="center" src="https://skillicons.dev/icons?i=js,php,mysql,vscode,html,css,bootstrap,wordpress,tailwind,jquery,laravel,vuejs,reactjs,nodejs,mongodb" />
   </a></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajansharma626&show_icons=true&locale=en&layout=compact" alt="rajansharma626" /></p>
